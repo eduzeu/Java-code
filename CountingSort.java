@@ -1,6 +1,5 @@
 package Makeup_Assignment;
-//Michael Lazieh
-//I pledge on my honor to abide by the Stevens Honor System.
+
 
 import java.util.Arrays;
 
